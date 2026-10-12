@@ -108,9 +108,9 @@ Sample id:
 
 Set the key, then activate:
 
-[https://github.com/identixia-IDV/ID-Document-Recognition-Android/blob/a79df71f1fc36034f327b14198f3dd19d4c9b106/app/src/main/java/com/identixia/documentrecognition/MainActivity.kt#L30-L31](https://github.com/identixia-IDV/ID-Document-Recognition-Android/blob/a79df71f1fc36034f327b14198f3dd19d4c9b106/app/src/main/java/com/identixia/documentrecognition/MainActivity.kt#L30-L31)
+[https://github.com/identixia-IDV/ID-Document-Recognition-Android/blob/4c6dc40539fd9a67/app/src/main/java/com/identixia/documentrecognition/MainActivity.kt#L30-L31](https://github.com/identixia-IDV/ID-Document-Recognition-Android/blob/4c6dc40539fd9a67/app/src/main/java/com/identixia/documentrecognition/MainActivity.kt#L30-L31)
 
-[https://github.com/identixia-IDV/ID-Document-Recognition-Android/blob/a79df71f1fc36034f327b14198f3dd19d4c9b106/app/src/main/java/com/identixia/documentrecognition/MainActivity.kt#L62-L62](https://github.com/identixia-IDV/ID-Document-Recognition-Android/blob/a79df71f1fc36034f327b14198f3dd19d4c9b106/app/src/main/java/com/identixia/documentrecognition/MainActivity.kt#L62-L62)
+[https://github.com/identixia-IDV/ID-Document-Recognition-Android/blob/4c6dc40539fd9a67/app/src/main/java/com/identixia/documentrecognition/MainActivity.kt#L62-L62](https://github.com/identixia-IDV/ID-Document-Recognition-Android/blob/4c6dc40539fd9a67/app/src/main/java/com/identixia/documentrecognition/MainActivity.kt#L62-L62)
 
 ## <img src="https://api.iconify.design/lucide/braces.svg?color=%230F766E" width="24" height="24" alt="" /> API
 
